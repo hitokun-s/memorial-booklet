@@ -137,9 +137,8 @@ p.kakko {
 }
 
 .tanka .verse {
-  text-indent: 0 !important;
+  text-indent: 0;
   margin: 0;
-  padding-left: 0;
   line-height: 2.0;
   font-size: 10.5pt;
 }
@@ -170,7 +169,7 @@ p.kakko {
 }
 
 .tanka-collection .tanka:first-child {
-  margin-top: 3mm;
+  margin-top: 8mm;
 }
 
 /* 短歌のあいだの区切り */
