@@ -112,30 +112,6 @@ p.no-indent {
   text-indent: 0;
 }
 
-/* --- 台詞・引用 --- */
-.speech {
-  margin: 3mm 0 3mm 2em;
-  text-indent: 0;
-}
-
-.speech-inline {
-  text-indent: 0;
-  margin-left: 1em;
-}
-
-blockquote {
-  margin: 4mm 5mm;
-  padding: 3mm 5mm;
-  border-left: 2pt solid var(--color-rule);
-  font-size: 9.5pt;
-  color: #555;
-  font-style: normal;
-}
-
-blockquote p {
-  text-indent: 0;
-  margin-bottom: 0.4em;
-}
 
 /* --- 短歌 --- */
 .tanka {
