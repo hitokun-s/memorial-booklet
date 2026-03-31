@@ -112,6 +112,11 @@ h3 {
   margin-bottom: 3mm;
 }
 
+/* 改ページで始まる各話タイトル — 全話統一 */
+h3.page-break {
+  margin-top: 2mm;
+}
+
 /* --- 本文 --- */
 p {
   margin: 0 0 0.8em 0;
