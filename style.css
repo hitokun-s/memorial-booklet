@@ -112,6 +112,12 @@ p.no-indent {
   text-indent: 0;
 }
 
+/* 「で始まる台詞段落 — ぶら下げインデント */
+p.kakko {
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
 
 /* --- 短歌 --- */
 .tanka {
