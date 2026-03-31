@@ -102,6 +102,16 @@ h2 {
   border-bottom: 0.5pt solid var(--color-rule);
 }
 
+/* --- 各話サブ見出し --- */
+h3 {
+  font-family: "Noto Serif CJK JP", serif;
+  font-weight: 600;
+  font-size: 11pt;
+  color: var(--color-accent);
+  margin-top: 6mm;
+  margin-bottom: 3mm;
+}
+
 /* --- 本文 --- */
 p {
   margin: 0 0 0.8em 0;
