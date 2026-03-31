@@ -160,16 +160,16 @@ p.kakko {
 
 /* 末尾の連作短歌 */
 .tanka-collection {
-  margin-top: 8mm;
+  margin-top: 4mm;
 }
 
 .tanka-collection .tanka {
-  margin: 10mm auto;
-  padding: 3mm 0;
+  margin: 5mm auto;
+  padding: 2mm 0;
 }
 
 .tanka-collection .tanka:first-child {
-  margin-top: 6mm;
+  margin-top: 3mm;
 }
 
 /* 短歌のあいだの区切り */
