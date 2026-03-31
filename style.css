@@ -137,8 +137,9 @@ p.kakko {
 }
 
 .tanka .verse {
-  text-indent: 0;
+  text-indent: 0 !important;
   margin: 0;
+  padding-left: 0;
   line-height: 2.0;
   font-size: 10.5pt;
 }
